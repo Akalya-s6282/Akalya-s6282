@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Tech Explorer | AI Learner | Innovator in Assistive Technology</h3>
 
 <p align="center">
-  <img src="[https://github.com/Akalya-s6282/Akalya-s6282/blob/main/WhatsApp%20Video%202025-09-25%20at%2022.40.33_65ee6e93.mp4](https://github.com/Akalya-s6282/Akalya-s6282/blob/main/Tech.gif)" width="600" alt="Futuristic Tech Explorer"/>
+  <img src="https://github.com/Akalya-s6282/Akalya-s6282/blob/main/Tech.gif?raw=true" width="1600" alt="Futuristic Tech Explorer"/>
 </p>
 
 💡 I’m a passionate tech explorer on a mission to turn bold ideas into impactful solutions. From embedded systems to AI-driven assistive technologies, I’m building tools that empower people and redefine what’s possible.  
