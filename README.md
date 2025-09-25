@@ -72,7 +72,7 @@
 ## 📈 GitHub Stats (Futuristic Mode)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akalya-s6282&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Akalya's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akalya-s6282&show_icons=true&theme=radical" alt="Akalya's GitHub stats" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Akalya-s6282&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
 </p>
 
