@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Tech Explorer | AI Learner | Innovator in Assistive Technology</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU2cGQ1c21mYmlzZ25iNHUwZ2hlYmx6N3ZzYjVjbHI4Z2J4bnRxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aCSPqXE5C6T8tBC/giphy.gif" width="300" alt="Futuristic Tech Explorer"/>
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fgifdb.com%2Fimages%2Fhigh%2Ftechnology-circuit-board-ht35fdefmne6n1dv.gif&tbnid=uRaizHIkhuruFM&vet=1&imgrefurl=https%3A%2F%2Fgifdb.com%2Fgif%2Fyes-i-love-technology-h51rbdhv5encrw5v.html&docid=g5qNe_U7jQh30M&w=500&h=281&itg=1&source=sh%2Fx%2Fim%2Fm1%2F2&kgs=050f2d54a1703e1c&shem=isst" width="600" alt="Futuristic Tech Explorer"/>
 </p>
 
 💡 I’m a passionate tech explorer on a mission to turn bold ideas into impactful solutions. From embedded systems to AI-driven assistive technologies, I’m building tools that empower people and redefine what’s possible.  
