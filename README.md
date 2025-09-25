@@ -1,27 +1,27 @@
-<h1 align="center">Hi 👋, I'm Akalya S</h1>
+<h1 align="center">👋 Hi, I'm Akalya S</h1>
 <h3 align="center">🚀 Tech Explorer | AI Learner | Innovator in Assistive Technology</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Tech GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU2cGQ1c21mYmlzZ25iNHUwZ2hlYmx6N3ZzYjVjbHI4Z2J4bnRxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aCSPqXE5C6T8tBC/giphy.gif" width="300" alt="Futuristic Tech Explorer"/>
 </p>
 
-💡 A passionate and curious mind exploring the endless possibilities of technology — from embedded systems to artificial intelligence.  
-I’m driven by the idea that **tech should empower people**, and my mission is to build solutions that truly make a difference.
+💡 I’m a passionate tech explorer on a mission to turn bold ideas into impactful solutions. From embedded systems to AI-driven assistive technologies, I’m building tools that empower people and redefine what’s possible.  
+⚡ Always learning. Always evolving. Always fighting forward.
 
 ---
 
-### 🔭 Current Project
-- 🚀 **[Blink Keyboard](https://github.com/Akalya-s6282/Blink_Keyboard)** — An assistive virtual keyboard controlled entirely by eye blinks, designed to empower individuals with severe motor impairments.
+### 🔭 Current Focus
+- 🚀 **[Blink Keyboard](https://github.com/Akalya-s6282/Blink_Keyboard)** — An assistive virtual keyboard controlled entirely by eye blinks, designed to give people with severe motor impairments a voice.
 
 ---
 
-### 🧠 Currently Learning
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🧠 Exploring **Human-Computer Interaction** for accessibility tech
+### 🧠 Learning Journey
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🧠 Human-Computer Interaction & Accessibility Tech
 
 ---
 
-### 💬 Ask Me About  
+### 💬 Let’s Talk About  
 **C Programming | HTML | CSS | Java | Python | Embedded C**
 
 📫 **Reach me at:** `akalya6282@gmail.com`
@@ -31,10 +31,10 @@ I’m driven by the idea that **tech should empower people**, and my mission is 
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/akalya-s6282" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="mailto:akalya6282@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/>
   </a>
 </p>
 
@@ -42,60 +42,59 @@ I’m driven by the idea that **tech should empower people**, and my mission is 
 
 ## 🧰 Skills Snapshot
 
-| Area | Tools & Languages |
-|------|-------------------|
-| 💻 Programming | C, C++, Java, Python, Embedded C |
-| 🌐 Web Dev | HTML, CSS, Flask |
-| 🛠️ Hardware | Arduino, MATLAB |
-| 📊 Tools & Control | Git, GitHub, Version Control |
-| 🤖 AI & ML | Currently Learning |
+| 💻 Area | 🛠️ Tools & Languages |
+|--------|-----------------------|
+| Programming | C, C++, Java, Python, Embedded C |
+| Web Dev | HTML, CSS, Flask |
+| Hardware | Arduino, MATLAB |
+| Tools | Git, GitHub, Version Control |
+| AI & ML | Currently Learning |
 
 ---
 
-## ⚙️ Languages & Tools I Use
+## ⚙️ Languages & Tools
 
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (Futuristic Mode)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akalya-s6282&show_icons=true&theme=tokyonight" alt="Akalya's GitHub stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akalya-s6282&theme=tokyonight" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akalya-s6282&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Akalya's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akalya-s6282&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
-## 📊 Top Languages
+## 📊 Language Breakdown
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akalya-s6282&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akalya-s6282&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## ✨ Fun Fact
+## 🛰️ Contribution Graph
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYKDrz0nQk4Nq3a/giphy.gif" width="200" alt="Innovation GIF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akalya-s6282&theme=react-dark" alt="Activity Graph"/>
 </p>
 
-<h3 align="center">🌱 Always learning. Always evolving. Always building tech that matters. 🌟</h3>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="center">⚔️ Always learning. Always evolving. Always fighting for what’s next. 🚀</h3>
 
 
 <!---
