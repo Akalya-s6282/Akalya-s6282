@@ -72,8 +72,10 @@
 ## 📈 GitHub Stats (Futuristic Mode)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akalya-s6282&show_icons=true&theme=radical" alt="Akalya's GitHub stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akalya-s6282&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akalya-s6282&show_icons=true&theme=radical&hide_border=false" 
+       alt="Akalya's GitHub stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akalya-s6282&theme=radical&hide_border=false" 
+       alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
@@ -81,7 +83,8 @@
 ## 📊 Language Breakdown
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akalya-s6282&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akalya-s6282&layout=compact&theme=radical&hide_border=false" 
+       alt="Top Languages"/>
 </p>
 
 ---
@@ -89,7 +92,8 @@
 ## 🛰️ Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akalya-s6282&theme=react-dark" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akalya-s6282&theme=react-dark&hide_border=false" 
+       alt="Activity Graph"/>
 </p>
 
 ---
