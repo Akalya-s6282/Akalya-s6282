@@ -72,19 +72,15 @@
 ## 📈 GitHub Stats (Futuristic Mode)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akalya-s6282&show_icons=true&theme=radical&hide_border=false" 
-       alt="Akalya's GitHub stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akalya-s6282&theme=radical&hide_border=false" 
-       alt="GitHub Streak" width="48%"/>
+  <img src="./assets/github-stats.svg" width="49%">
+  <img src="./assets/github-streak.svg" width="48%">
 </p>
-
 ---
 
 ## 📊 Language Breakdown
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akalya-s6282&layout=compact&theme=radical&hide_border=false" 
-       alt="Top Languages"/>
+  <img src="./assets/top-languages.svg">
 </p>
 
 ---
@@ -92,8 +88,7 @@
 ## 🛰️ Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akalya-s6282&theme=react-dark&hide_border=false" 
-       alt="Activity Graph"/>
+  <img src="./assets/contribution-graph.svg">
 </p>
 
 ---
